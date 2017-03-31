@@ -1,3 +1,5 @@
+http://blog.csdn.net/until_v/article/details/42916395  Azkaban简介及安装教程
+
 Azkaban 3 [![Build Status](http://img.shields.io/travis/azkaban/azkaban.svg?style=flat)](https://travis-ci.org/azkaban/azkaban)
 ========
 
